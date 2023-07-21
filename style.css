@@ -1,0 +1,39 @@
+/* h1{
+font-size: 60px;
+text-decoration: dotted;
+color:tomato ;
+letter-spacing: ;
+
+}
+.p2{
+color:navy ;
+font-size: 24px;
+font-weight: lighter;
+
+}
+.p2{
+    color: tomato; 
+    font-size: 48;  
+    font-weight:bold 400;   
+}
+#p3{
+color: blue;
+font-size: 25;
+font-style: italic;
+}
+ 
+
+
+ */
+h3, .p2{
+    color: brown;
+    font-size: 23px;
+    font-weight: bolder;
+    font-style:italic ;
+}
+.box p{
+    color: red;
+}
+article > p{
+    color:green ;
+}
